@@ -1,2 +1,2 @@
 # Google-Cybersecurity-Portfolio
-![Certificate of completion for Google Cybersecurity Professional Certificate for Smit Thakkar][./Certificate/Google Cybersecurity Certificate.png]
+![Google Cybersecurity Certificate](https://github.com/user-attachments/assets/11e6096d-bebb-4d74-93f7-371ca1296817)
