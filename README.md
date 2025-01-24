@@ -1,2 +1,2 @@
 # Google-Cybersecurity-Portfolio
-![img](Certificate)
+![img](Certificate/Google_Cybersecurity_Certificate.jpg)
