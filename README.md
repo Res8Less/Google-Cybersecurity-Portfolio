@@ -108,6 +108,6 @@ Each folder contains specific scenarios, reports, and deliverables tied to the c
 
 For further information or collaboration opportunities, feel free to reach out!  
 - **Email**: [thakkarsmit@myyahoo.com]  
-- **LinkedIn**: [linkedin.com/in/smit-thakkar2428]  
+- **LinkedIn**: [https://linkedin.com/in/smit-thakkar2428]  
 
 ---
